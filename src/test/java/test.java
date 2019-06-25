@@ -3,7 +3,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class yesTest {
+public class test {
     yes setYes = new yes("Yes");// put this before @Before LOL
 
     @Before
@@ -12,12 +12,12 @@ public class yesTest {
         setYes.setResult(0);
     }
 
-//    @Test
-//    public void setAnswer() {
-//
-//        assertEquals("Yes", setYes.getAnswer());
-//    }
-//
+    @Test
+    public void setAnswer() {
+
+        assertEquals("Yes", setYes.getAnswer());
+    }
+
     @Test
     public void getAnswer() {
     }

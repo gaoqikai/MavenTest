@@ -10,6 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="0.main" target="1.8" />
+      <module name="0.test" target="1.8" />
       <module name="classes_and_tests" target="7" />
     </bytecodeTargetLevel>
   </component>
