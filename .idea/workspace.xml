@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc79b734-2bd1-43f3-ba79-127d61d74c1c" name="Default Changelist" comment="" />
+    <list default="true" id="bc79b734-2bd1-43f3-ba79-127d61d74c1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/yesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/yesTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,20 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="221">
+              <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/yesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+            <state relative-caret-position="102">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -73,14 +78,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/yes.java" />
         <option value="$PROJECT_DIR$/src/main.java" />
-        <option value="$PROJECT_DIR$/test/yesTest.java" />
         <option value="$PROJECT_DIR$/test/RegressionTest0.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test/yesTest.java" />
       </list>
     </option>
   </component>
@@ -123,42 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="classes_and_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="classes_and_tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="classes_and_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="classes_and_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="classes_and_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="classes_and_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="classes_and_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="classes_and_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="JUnit4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="classes_and_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -200,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RegressionTest0">
+  <component name="RunManager" selected="JUnit.yesTest.setAnswer">
     <configuration name="RegressionTest0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="classes_and_tests" />
       <option name="PACKAGE_NAME" value="" />
@@ -230,15 +204,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegressionTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="classes_and_tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RegressionTest1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="yesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="classes_and_tests" />
       <option name="PACKAGE_NAME" value="" />
@@ -248,13 +213,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="yesTest.setAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="classes_and_tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="yesTest" />
+      <option name="METHOD_NAME" value="setAnswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.yesTest.setAnswer" />
         <item itemvalue="JUnit.RegressionTest0" />
         <item itemvalue="JUnit.RegressionTest0.test003" />
         <item itemvalue="JUnit.yesTest" />
         <item itemvalue="JUnit.RegressionTest0.test001" />
-        <item itemvalue="JUnit.RegressionTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -272,12 +247,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RegressionTest0_test001 - 2019.06.19 at 17h 20m 21s.xml">
-      <configuration name="RegressionTest0.test001" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegressionTest0 - 2019.06.19 at 17h 20m 36s.xml">
-      <configuration name="RegressionTest0" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RegressionTest0 - 2019.06.19 at 17h 21m 05s.xml">
       <configuration name="RegressionTest0" configurationId="JUnit" />
     </history-entry>
@@ -302,12 +271,18 @@
     <history-entry file="RegressionTest0 - 2019.06.19 at 17h 28m 10s.xml">
       <configuration name="RegressionTest0" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="yesTest_setAnswer - 2019.06.25 at 15h 43m 50s.xml">
+      <configuration name="yesTest.setAnswer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="yesTest_setAnswer - 2019.06.25 at 15h 44m 16s.xml">
+      <configuration name="yesTest.setAnswer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2751678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -316,7 +291,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,13 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/yesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -396,8 +364,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        <state relative-caret-position="221">
+          <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/yesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -477,11 +452,17 @@
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="test" />
+    <option value="clean test" />
+    <option value="clean:clean" />
+    <option value="clean:clean'" />
+    <option value="install" />
+    <option value="clean" />
+    <option value="clean install -Dmaven.test.skip=true -Dtest=yesTest" />
+    <option value="install -Dtest=yesTest" />
     <option value="clean install -Dtest=yesTest" />
     <option value="-e clean install -Dtest=yesTest" />
     <option value="clean install" />
-    <option value="install" />
     <option value="-Dtest=yesTest" />
-    <option value="clean" />
   </component>
 </project>
