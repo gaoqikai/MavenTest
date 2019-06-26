@@ -4,28 +4,22 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class test {
-    yes setYes = new yes("Yes");// put this before @Before LOL
+    calculator cal = new calculator();// init a calculator object
 
     @Before
-    public void setResult() {
-
-        setYes.setResult(0);
-    }
-
-    @Test
-    public void setAnswer() {
-
-        assertEquals("Yes", setYes.getAnswer());
-    }
-
-    @Test
-    public void getAnswer() {
+    public void setResult() {//reset the calculator
+        cal.setResult(0);
     }
 
     @Test
     public void add() {
+        cal.add(5);
+        assertEquals(5, cal.getResult());
+    }
 
-        setYes.add(3);
-        assertEquals(3, setYes.getResult());
+    @Test
+    public void minus() {
+        cal.minus(10);
+        assertEquals(-10, cal.getResult());
     }
 }
