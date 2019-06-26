@@ -25,7 +25,7 @@ public class test {
     @Test
     public void add() {
 
-        setYes.add(5);
+        setYes.add(3);
         assertEquals(3, setYes.getResult());
     }
 }
