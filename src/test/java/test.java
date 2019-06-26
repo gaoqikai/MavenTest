@@ -26,6 +26,6 @@ public class test {
     public void add() {
 
         setYes.add(5);
-        assertEquals(5, setYes.getResult());
+        assertEquals(3, setYes.getResult());
     }
 }
