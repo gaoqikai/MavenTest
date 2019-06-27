@@ -1,7 +1,7 @@
 public class calculator {//a simple calculator
 
     public int add(int first, int second) {//add to counter
-        return second + first;
+        return second + first + first;
     }
 
     public float minus(int first, int second) {//deduct from counter
