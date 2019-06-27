@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc79b734-2bd1-43f3-ba79-127d61d74c1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes_and_tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/classes_and_tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RegressionTest0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RegressionTest0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/classes_and_tests.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes_and_tests-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes_and_tests-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RegressionTest0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RegressionTest0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes_and_tests-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RegressionTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-RegressionTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RegressionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RegressionTest0.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,12 +44,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,21 +66,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
               <folding>
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/specs.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ErrorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ErrorTest0.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -89,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -120,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/main/java/main.java" />
         <option value="$PROJECT_DIR$/src/test/java/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator.java" />
+        <option value="$PROJECT_DIR$/specs.json" />
       </list>
     </option>
   </component>
@@ -156,7 +181,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1939" />
@@ -245,7 +270,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RegressionTest">
+  <component name="RunManager" selected="JUnit.ErrorTest">
+    <configuration name="ErrorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="classes_and_tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ErrorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RegressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="classes_and_tests" />
       <option name="PACKAGE_NAME" value="" />
@@ -283,23 +317,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="yesTest.setAnswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="classes_and_tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="yesTest" />
-      <option name="METHOD_NAME" value="setAnswer" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ErrorTest" />
         <item itemvalue="JUnit.RegressionTest" />
+        <item itemvalue="JUnit.RegressionTest0" />
         <item itemvalue="JUnit.test" />
         <item itemvalue="JUnit.test.minus" />
-        <item itemvalue="JUnit.yesTest.setAnswer" />
-        <item itemvalue="JUnit.RegressionTest0" />
       </list>
     </recent_temporary>
   </component>
@@ -317,40 +341,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test - 2019.06.25 at 17h 47m 34s.xml">
-      <configuration name="test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test - 2019.06.26 at 11h 15m 08s.xml">
-      <configuration name="test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test - 2019.06.26 at 11h 15m 21s.xml">
-      <configuration name="test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test - 2019.06.26 at 11h 15m 32s.xml">
-      <configuration name="test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegressionTest - 2019.06.26 at 13h 57m 54s.xml">
-      <configuration name="RegressionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegressionTest - 2019.06.26 at 13h 59m 10s.xml">
-      <configuration name="RegressionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegressionTest - 2019.06.26 at 14h 00m 47s.xml">
-      <configuration name="RegressionTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RegressionTest - 2019.06.26 at 14h 01m 13s.xml">
-      <configuration name="RegressionTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RegressionTest - 2019.06.26 at 14h 25m 35s.xml">
       <configuration name="RegressionTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RegressionTest - 2019.06.26 at 14h 25m 51s.xml">
       <configuration name="RegressionTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RegressionTest0 - 2019.06.26 at 17h 09m 04s.xml">
+      <configuration name="RegressionTest0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionTest - 2019.06.26 at 17h 10m 25s.xml">
+      <configuration name="RegressionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionTest - 2019.06.26 at 17h 28m 40s.xml">
+      <configuration name="RegressionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegressionTest - 2019.06.26 at 17h 30m 24s.xml">
+      <configuration name="RegressionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorTest - 2019.06.27 at 10h 05m 06s.xml">
+      <configuration name="ErrorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorTest - 2019.06.27 at 10h 05m 23s.xml">
+      <configuration name="ErrorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorTest - 2019.06.27 at 10h 05m 53s.xml">
+      <configuration name="ErrorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorTest - 2019.06.27 at 10h 06m 13s.xml">
+      <configuration name="ErrorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2872483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -361,7 +384,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,7 +398,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.3295302" />
+      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.3295302" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -403,13 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes_and_tests.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -424,20 +440,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RegressionTest0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1479">
+        <state relative-caret-position="17">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/RegressionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -448,30 +466,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RegressionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ErrorTest0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ErrorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
           <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -551,6 +592,7 @@
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="clean install -Dtest=RegressionTest,test test" />
     <option value="clean install -Dtest=RegressionTest test" />
     <option value="clean install -Dtest=test test" />
     <option value="clean install" />
@@ -570,6 +612,5 @@
     <option value="clean:clean'" />
     <option value="install" />
     <option value="clean" />
-    <option value="clean install -Dmaven.test.skip=true -Dtest=yesTest" />
   </component>
 </project>

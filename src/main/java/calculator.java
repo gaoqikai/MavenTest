@@ -1,19 +1,15 @@
 public class calculator {//a simple calculator
-    private int result;//the counter
 
-    public void add(int toAdd) {//add to counter
-        result += toAdd;
+    public int add(int first, int second) {//add to counter
+        return second + first;
     }
 
-    public void minus(int toMin) {//deduct from counter
-        result -= toMin;
+    public float minus(int first, int second) {//deduct from counter
+        return first - second;
     }
 
-    public int getResult(){//get the counter value
-        return result;
+    public int average(int first, int second, int third) {//deduct from counter
+        return (first + second + third) / 3;
     }
 
-    public void setResult(int result) {//reset the counter value
-        this.result = result;
-    }
 }

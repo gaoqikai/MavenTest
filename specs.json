@@ -1,0 +1,26 @@
+[
+  {
+    "operation": {
+      "classname": "calculator",
+      "name": "add",
+      "parameterTypes": [ "int","int" ]
+    },
+    "identifiers": {
+      "parameters": [ "first","second" ],
+      "returnName": "result"
+    },
+    "post": [
+      {
+        "property": {
+          "condition": "result == first + second",
+          "description": ""
+        },
+        "description": "",
+        "guard": {
+          "condition": "true",
+          "description": ""
+        }
+      }
+    ]
+  }
+]
